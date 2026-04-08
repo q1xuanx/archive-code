@@ -4,5 +4,5 @@
 - If you have any contributions or solutions for problems on LeetCode, Codeforces, or similar platforms, feel free to fork this repository and submit a pull request.
 - Thanks for your contribution to this repository 💌
 
-
-### Qixuanx @ 2025
+### Maintainer
+> qixuanx @ 2026
